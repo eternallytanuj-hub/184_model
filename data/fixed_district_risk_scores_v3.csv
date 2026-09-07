@@ -1,0 +1,965 @@
+State,District,risk_score_v3,risk_tier_v3
+Andhra Pradesh,Alluri Sitharama Raju,0.2613996,Low
+Andhra Pradesh,Anakapalli,0.24529704,Low
+Andhra Pradesh,Anantapuramu,0.84294826,Moderate
+Andhra Pradesh,Annamayya,1.4355061,Moderate
+Andhra Pradesh,Bapatla,1.0080862,Moderate
+Andhra Pradesh,Chittoor,0.5992534,Low
+Andhra Pradesh,Dr BR Ambedkar Konaseema,0.2838076,Low
+Andhra Pradesh,East Godavari,2.0662875,Moderate
+Andhra Pradesh,Eluru,0.5656418,Low
+Andhra Pradesh,Guntakal Railway,0.38646856,Low
+Andhra Pradesh,Guntur,0.6759063,Low
+Andhra Pradesh,Kakinada,0.17827961,Low
+Andhra Pradesh,Krishna,0.5360381,Low
+Andhra Pradesh,Kurnool,0.8851129,Moderate
+Andhra Pradesh,Nandyal,0.38484377,Low
+Andhra Pradesh,NTR,0.9063784,Moderate
+Andhra Pradesh,Palnadu,0.2781146,Low
+Andhra Pradesh,Parvathipuram Manyam,0.31214705,Low
+Andhra Pradesh,Prakasam,0.22427775,Low
+Andhra Pradesh,Sri Potti Sriramulu Nellore,0.20422761,Low
+Andhra Pradesh,Sri Sathya Sai,0.9754885,Moderate
+Andhra Pradesh,Srikakulam,0.296465,Low
+Andhra Pradesh,Tirupati,1.0198247,Moderate
+Andhra Pradesh,Viiayawada Railway,0.527063,Low
+Andhra Pradesh,Visakhapatnam,0.046704043,Low
+Andhra Pradesh,Vizianagaram,0.27712128,Low
+Andhra Pradesh,West Godavari,0.35770896,Low
+Andhra Pradesh,YSR,0.49513605,Low
+Arunachal Pradesh,Anjaw,4.2543015,High
+Arunachal Pradesh,Changlang,1.7446661,Moderate
+Arunachal Pradesh,Crime Branch,2.927054,High
+Arunachal Pradesh,Dibang Valley,2.5777156,High
+Arunachal Pradesh,Kameng East,0.6323259,Low
+Arunachal Pradesh,Kameng West,1.9215908,Moderate
+Arunachal Pradesh,Kurung Kumey,2.0133657,Moderate
+Arunachal Pradesh,Lohit,0.7722335,Low
+Arunachal Pradesh,Longding,2.16621,Moderate
+Arunachal Pradesh,Lower Dibang Valley,4.8667073,High
+Arunachal Pradesh,Papum Pare City,2.402646,Moderate
+Arunachal Pradesh,Papum Pare Rural,1.8361604,Moderate
+Arunachal Pradesh,Siang East,0.57744074,Low
+Arunachal Pradesh,Siang Upper,2.8391895,High
+Arunachal Pradesh,Siang West,1.6451329,Moderate
+Arunachal Pradesh,Subansiri Lower,1.735231,Moderate
+Arunachal Pradesh,Subansiri Upper,5.9670897,High
+Arunachal Pradesh,Tawang,3.0104208,High
+Arunachal Pradesh,Tirap,7.804705,Critical
+Arunachal Pradesh,Namsai,3.8959212,High
+Arunachal Pradesh,Siang,4.3961434,High
+Arunachal Pradesh,Kamle,2.3745422,Moderate
+Arunachal Pradesh,Kra Dadi,3.9967797,High
+Arunachal Pradesh,Lower Siang,4.8142943,High
+Arunachal Pradesh,Leparada,0.47506803,Low
+Arunachal Pradesh,Shiyomi,8.024376,Critical
+Arunachal Pradesh,Pakkessang,1.6654358,Moderate
+Assam,BIEO,0.24075252,Low
+Assam,Barpeta,0.4489016,Low
+Assam,Baksa,0.0030641158,Low
+Assam,Bongaigaon,0.25473788,Low
+Assam,CID,0.55157024,Low
+Assam,Cachar,0.34842998,Low
+Assam,Chirang,0.32890803,Low
+Assam,Darrang,0.49664956,Low
+Assam,Dhemaji,1.473344,Moderate
+Assam,Dhubri,0.31952924,Low
+Assam,Dibrugarh,0.16793403,Low
+Assam,GRP,0.2259441,Low
+Assam,Goalpara,0.5582371,Low
+Assam,Golaghat,0.0,Low
+Assam,Guwahati City,0.33599094,Low
+Assam,Hailakandi,0.556458,Low
+Assam,Hamren,0.8429637,Moderate
+Assam,Jorhat,0.7390579,Low
+Assam,Kamrup,0.43635842,Low
+Assam,Karbi Anglong,0.15190263,Low
+Assam,Karimganj,0.11882012,Low
+Assam,Kokrajhar,0.12240861,Low
+Assam,Lakhimpur,0.45448127,Low
+Assam,Morigaon,0.2831864,Low
+Assam,Dima Hasao,0.26736468,Low
+Assam,Nagaon,0.10745494,Low
+Assam,Nalbari,0.12430249,Low
+Assam,RPO,2.1619565,Moderate
+Assam,SOU,0.5064388,Low
+Assam,STF,0.47351775,Low
+Assam,Sibsagar,0.2361676,Low
+Assam,Sonitpur,0.069090046,Low
+Assam,Tinsukia,0.3562138,Low
+Assam,Udalguri,2.2446864,Moderate
+Assam,Sadia,0.4318127,Low
+Assam,Majuli,2.0955448,Moderate
+Assam,Biswanath,1.053191,Moderate
+Assam,Hojai,0.09926909,Low
+Assam,South Salmara,0.26469386,Low
+Assam,Charaideo,0.55644655,Low
+Assam,Bajali,0.0,Low
+Assam,Tamulpur,1.5153697,Moderate
+Bihar,Araria,0.63222295,Low
+Bihar,Arwal,0.63204277,Low
+Bihar,Aurangabad,0.0,Low
+Bihar,Bagaha,0.66458726,Low
+Bihar,Banka,0.38181272,Low
+Bihar,Begusarai,0.54692966,Low
+Bihar,Bettiah,0.19487481,Low
+Bihar,Kaimur(Bhabhua),0.8660414,Moderate
+Bihar,Bhagalpur,0.14232959,Low
+Bihar,Bhojpur,0.24176049,Low
+Bihar,Buxar,0.6584086,Low
+Bihar,Darbhanga,0.05516144,Low
+Bihar,Gaya,0.2246451,Low
+Bihar,Gopalganj,0.48091164,Low
+Bihar,Jamalpur Railway,0.2814479,Low
+Bihar,Jamui,0.22601788,Low
+Bihar,Jehanabad,0.43031335,Low
+Bihar,Katihar,0.12677857,Low
+Bihar,Katihar Railway,0.53940916,Low
+Bihar,Khagaria,0.45926064,Low
+Bihar,Kishanganj,0.7717329,Low
+Bihar,Lakhisarai,0.23625118,Low
+Bihar,Madhepura,0.9639075,Moderate
+Bihar,Madhubani,4.3007107,High
+Bihar,Motihari,0.21848069,Low
+Bihar,Munger,0.23367968,Low
+Bihar,Muzaffarpur,0.47566587,Low
+Bihar,Muzaffarpur Railway,0.24516976,Low
+Bihar,Nalanda,0.24576163,Low
+Bihar,Naugachia,0.090208106,Low
+Bihar,Nawadah,1.3894247,Moderate
+Bihar,Patna,0.18017022,Low
+Bihar,Patna Railway,0.5483291,Low
+Bihar,Purnea,0.15660122,Low
+Bihar,Rohtas,0.13595727,Low
+Bihar,Saharsa,0.47609252,Low
+Bihar,Samastipur,0.15661168,Low
+Bihar,Saran,0.1536167,Low
+Bihar,Sheikhpura,0.31513742,Low
+Bihar,Sheohar,1.0371304,Moderate
+Bihar,Sitamarhi,0.16921279,Low
+Bihar,Siwan,0.9770276,Moderate
+Bihar,Supaul,0.3096099,Low
+Bihar,Vaishali,0.7483282,Low
+Bihar,Economic Offences Unit,0.0,Low
+Bihar,Anti Terrorist Squad,0.58991367,Low
+Chhattisgarh,Balod,0.12255758,Low
+Chhattisgarh,Balodbazar,0.7685931,Low
+Chhattisgarh,Balrampur,1.3488878,Moderate
+Chhattisgarh,Bemetra,1.8492692,Moderate
+Chhattisgarh,Bilaspur,0.3664969,Low
+Chhattisgarh,Bizapur,0.1628042,Low
+Chhattisgarh,Dantewara,0.691159,Low
+Chhattisgarh,Dhamtari,0.24858572,Low
+Chhattisgarh,Durg,0.35605893,Low
+Chhattisgarh,Gariyaband,0.45494437,Low
+Chhattisgarh,GRP Raipur,0.084690824,Low
+Chhattisgarh,Jagdalpur,0.14782742,Low
+Chhattisgarh,Janjgir,0.5187008,Low
+Chhattisgarh,Jashpur,0.21252139,Low
+Chhattisgarh,Kabirdham,0.23746301,Low
+Chhattisgarh,Kanker,0.55156064,Low
+Chhattisgarh,Kondagaon,0.0,Low
+Chhattisgarh,Korba,0.1443702,Low
+Chhattisgarh,Koriya,0.9600484,Moderate
+Chhattisgarh,Mahasamund,0.3095374,Low
+Chhattisgarh,Mungali,0.93581927,Moderate
+Chhattisgarh,Narayanpur,0.19897752,Low
+Chhattisgarh,Raigarh,1.7115978,Moderate
+Chhattisgarh,Raipur,1.7764307,Moderate
+Chhattisgarh,Rajnandgaon,1.0718081,Moderate
+Chhattisgarh,Sarguja,0.8576042,Moderate
+Chhattisgarh,Sukma,0.04859687,Low
+Chhattisgarh,Surajpur,0.3791009,Low
+Chhattisgarh,Gaurela-Pendra-Marwari,0.33847815,Low
+Chhattisgarh,Khairagarh - Chhuikhadan-Gandai,0.7077235,Low
+Chhattisgarh,Manendragarh-Chirmiri-Bharatpur,0.9458714,Moderate
+Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,0.5799352,Low
+Chhattisgarh,Sakti,0.16851124,Low
+Chhattisgarh,Sarangarh-Bilaigarh,0.11190368,Low
+Goa,North Goa,11.762573,Critical
+Goa,South Goa,12.90915,Critical
+Goa,CID,9.198119,Critical
+Gujarat,Ahmedabad City,2.8329694,High
+Gujarat,Ahmedabad Rural,0.20246634,Low
+Gujarat,Amreli,0.37404844,Low
+Gujarat,Anand,1.3840425,Moderate
+Gujarat,Arvalli,0.24510296,Low
+Gujarat,Banaskantha,0.91481626,Moderate
+Gujarat,Bharuch,1.6198752,Moderate
+Gujarat,Bhavnagar,0.5018785,Low
+Gujarat,Botad,1.0213679,Moderate
+Gujarat,Chhotaudepur,0.3526157,Low
+Gujarat,CID Crime,3.9454525,High
+Gujarat,Dahod,0.62312573,Low
+Gujarat,Dang,0.790146,Moderate
+Gujarat,Devbhumi Dwarka,0.51430774,Low
+Gujarat,Gandhinagar,0.7395163,Low
+Gujarat,Gir Somnath,2.9699655,High
+Gujarat,Jamnagar,2.1168075,Moderate
+Gujarat,Junagadh,1.8724415,Moderate
+Gujarat,Kachchh East(G),3.075843,High
+Gujarat,Kachchh West(B),2.6125927,High
+Gujarat,Kheda,1.0771263,Moderate
+Gujarat,Mahisagar,0.8042937,Moderate
+Gujarat,Mehsana,3.4092908,High
+Gujarat,Morbi,0.3762047,Low
+Gujarat,Narmada,0.873823,Moderate
+Gujarat,Navsari,0.5052963,Low
+Gujarat,Panchmahal,0.83083045,Moderate
+Gujarat,Patan,3.4292705,High
+Gujarat,Porbandar,0.59819996,Low
+Gujarat,Rajkot City,6.29391,High
+Gujarat,Rajkot Rural,0.7610698,Low
+Gujarat,Sabarkantha,0.0856423,Low
+Gujarat,Surat City,2.8977466,High
+Gujarat,Surat Rural,3.2394588,High
+Gujarat,Surendranagar,1.741364,Moderate
+Gujarat,Tapi,0.99751216,Moderate
+Gujarat,Vadodara City,0.6058422,Low
+Gujarat,Vadodara Rural,0.9430435,Moderate
+Gujarat,Valsad,0.27207664,Low
+Gujarat,W Rly Ahmedabad,0.96894276,Moderate
+Gujarat,W Rly Vadodara,1.1050892,Moderate
+Gujarat,Cyber Ahmedabad Range,0.061601825,Low
+Gujarat,Cyber Bhavnagar Range,1.3779308,Moderate
+Gujarat,Cyber Border Range,1.234231,Moderate
+Gujarat,Cyber Gandhinagar Range,0.5634874,Low
+Gujarat,Cyber Junagadh Range,0.51866674,Low
+Gujarat,Cyber Panchmahal Range,3.1899936,High
+Gujarat,Cyber Rajkot Range,0.5768253,Low
+Gujarat,Cyber Surat Range,1.9966509,Moderate
+Gujarat,Cyber Vadodara Range,1.2530091,Moderate
+Haryana,Ambala,2.7501042,High
+Haryana,Bhiwani,4.5389156,High
+Haryana,Faridabad,7.9606085,Critical
+Haryana,Fatehabad,4.0621963,High
+Haryana,GRP,3.2118995,High
+Haryana,Gurugram,3.7504406,High
+Haryana,Hissar,2.086281,Moderate
+Haryana,Jhajjar,1.5573109,Moderate
+Haryana,Jind,7.6190405,Critical
+Haryana,Kaithal,4.2625437,High
+Haryana,Karnal,2.9782686,High
+Haryana,Kurukshetra,4.872539,High
+Haryana,Mahendergarh,3.3306928,High
+Haryana,Nuh,4.099844,High
+Haryana,Palwal,10.546881,Critical
+Haryana,Panchkula,4.3088117,High
+Haryana,Panipat,3.428841,High
+Haryana,Rewari,2.472882,High
+Haryana,Rohtak,2.4669507,High
+Haryana,Sirsa,8.090947,Critical
+Haryana,Sonipat,3.0111651,High
+Haryana,Yamunanagar,2.751175,High
+Haryana,Irrigation & Power,0.92417896,Moderate
+Haryana,Charkhi Dadri,11.84947,Critical
+Haryana,Hansi,4.749604,High
+Haryana,Dabwali,1.5975274,Moderate
+Himachal Pradesh,Baddi,3.0139136,High
+Himachal Pradesh,Bilaspur,0.71313816,Low
+Himachal Pradesh,Chamba,0.8475373,Moderate
+Himachal Pradesh,CID,0.46038014,Low
+Himachal Pradesh,GRP,4.3979807,High
+Himachal Pradesh,Hamirpur,0.77184474,Low
+Himachal Pradesh,Kangra,3.6101089,High
+Himachal Pradesh,Kinnaur,0.99675274,Moderate
+Himachal Pradesh,Kullu,3.0677738,High
+Himachal Pradesh,Lahaul & Spiti,1.0202528,Moderate
+Himachal Pradesh,Mandi,0.3567889,Low
+Himachal Pradesh,Shimla,1.1669997,Moderate
+Himachal Pradesh,Sirmaur,1.4132466,Moderate
+Himachal Pradesh,Solan,0.68134594,Low
+Himachal Pradesh,Una,2.062797,Moderate
+Himachal Pradesh,Cyber,0.7869398,Moderate
+Himachal Pradesh,Nurpur,3.635306,High
+Jharkhand,Bokaro,9.359592,Critical
+Jharkhand,Chaibasa,34.583878,Critical
+Jharkhand,Chatra,11.55876,Critical
+Jharkhand,Deoghar,10.368453,Critical
+Jharkhand,Dhanbad,8.963055,Critical
+Jharkhand,Dhanbad Railway,12.495925,Critical
+Jharkhand,Dumka,12.346695,Critical
+Jharkhand,Garhwa,8.3346815,Critical
+Jharkhand,Giridih,15.201691,Critical
+Jharkhand,Godda,7.691981,Critical
+Jharkhand,Gumla,24.611212,Critical
+Jharkhand,Hazaribagh,16.522354,Critical
+Jharkhand,Jamshedpur,6.898597,Critical
+Jharkhand,Jamshedpur Railway,11.515179,Critical
+Jharkhand,Jamtara,13.331774,Critical
+Jharkhand,Khunti,22.133795,Critical
+Jharkhand,Koderma,16.328625,Critical
+Jharkhand,Latehar,14.954994,Critical
+Jharkhand,Lohardagga,8.780794,Critical
+Jharkhand,Pakur,29.69234,Critical
+Jharkhand,Palamu,15.338466,Critical
+Jharkhand,Ramgarh,19.061754,Critical
+Jharkhand,Ranchi,8.022954,Critical
+Jharkhand,Sahebganj,22.365513,Critical
+Jharkhand,Saraikela,33.019737,Critical
+Jharkhand,Simdega,9.94029,Critical
+Karnataka,Bagalkot,1.9549267,Moderate
+Karnataka,Bengaluru City,7.519281,Critical
+Karnataka,Bengaluru District,1.237918,Moderate
+Karnataka,Belagavi District,1.9276443,Moderate
+Karnataka,Ballari,1.2706372,Moderate
+Karnataka,Bidar,4.241372,High
+Karnataka,Vijayapura,3.716574,High
+Karnataka,Chikkaballapura,2.9183264,High
+Karnataka,Chamarajnagar,1.8320312,Moderate
+Karnataka,Chikkamagaluru,1.2559875,Moderate
+Karnataka,Chitradurga,4.3909655,High
+Karnataka,Dakshina Kannada,1.377624,Moderate
+Karnataka,Davanagere,2.1223335,Moderate
+Karnataka,Dharwad,2.5249817,High
+Karnataka,Gadag,2.7137897,High
+Karnataka,Kalaburgi,1.3768661,Moderate
+Karnataka,Hassan,2.617668,High
+Karnataka,Haveri,2.2370734,Moderate
+Karnataka,Hubballi Dharwad City,2.918513,High
+Karnataka,KGF,2.1848993,Moderate
+Karnataka,Kodagu,2.617915,High
+Karnataka,Kolar,3.852117,High
+Karnataka,Koppal,2.1078064,Moderate
+Karnataka,Mandya,3.1414292,High
+Karnataka,Mangaluru City,1.8524939,Moderate
+Karnataka,Mysuru City,4.9208994,High
+Karnataka,Mysuru District,1.9346528,Moderate
+Karnataka,Raichur,4.043039,High
+Karnataka,KRailways,5.481877,High
+Karnataka,Ramanagara,5.0273547,High
+Karnataka,Shimoga,7.994551,Critical
+Karnataka,Tumakuru,1.8970035,Moderate
+Karnataka,Udupi,6.8924627,Critical
+Karnataka,Uttara Kannada,6.839983,Critical
+Karnataka,Yadgiri,2.4375205,High
+Karnataka,Belagavi City,1.269799,Moderate
+Karnataka,Kalaburgi City,1.7477056,Moderate
+Karnataka,Vijayanagara,1.9397244,Moderate
+Kerala,Alapuzha,0.1847102,Low
+Kerala,Ernakulam Commr,2.1819537,Moderate
+Kerala,Ernakulam Rural,0.39473894,Low
+Kerala,Idukki,0.55831635,Low
+Kerala,Kannur City,0.04280058,Low
+Kerala,Kasargod,0.09103751,Low
+Kerala,Kollam Commr,0.25262222,Low
+Kerala,Kollam Rural,0.5894883,Low
+Kerala,Kottayam,0.17515162,Low
+Kerala,Kozhikode Commr,1.0466242,Moderate
+Kerala,Kozhikode Rural,0.8535374,Moderate
+Kerala,Malappuram,1.1446699,Moderate
+Kerala,Palakkad,1.1479841,Moderate
+Kerala,Pathanamthitta,0.099965535,Low
+Kerala,Railways,1.2850266,Moderate
+Kerala,Thrissur Commr,0.13201673,Low
+Kerala,Thrissur Rural,0.4839241,Low
+Kerala,Trivandrum Commr,1.9237522,Moderate
+Kerala,Trivandrum Rural,0.23937233,Low
+Kerala,Wayanadu,0.019402321,Low
+Kerala,Crime Branch,0.0,Low
+Kerala,Kannur Rural,1.5139999,Moderate
+Madhya Pradesh,Agar,0.42625055,Low
+Madhya Pradesh,Alirajpur,0.5052592,Low
+Madhya Pradesh,Anuppur,0.7302459,Low
+Madhya Pradesh,Ashok Nagar,0.7344758,Low
+Madhya Pradesh,Balaghat,0.90862864,Moderate
+Madhya Pradesh,Barwani,0.86028904,Moderate
+Madhya Pradesh,Betul,1.1662761,Moderate
+Madhya Pradesh,Bhind,0.8910928,Moderate
+Madhya Pradesh,Bhopal Commissionarate,0.21516143,Low
+Madhya Pradesh,Bhopal Railway,0.6618601,Low
+Madhya Pradesh,Burhanpur,0.36398828,Low
+Madhya Pradesh,Chhatarpur,2.4633052,High
+Madhya Pradesh,Chhindwara,0.93551505,Moderate
+Madhya Pradesh,Damoh,0.333706,Low
+Madhya Pradesh,Datia,0.58637905,Low
+Madhya Pradesh,Dewas,0.36100686,Low
+Madhya Pradesh,Dhar,0.56220186,Low
+Madhya Pradesh,Dindori,0.6021436,Low
+Madhya Pradesh,Guna,1.4356652,Moderate
+Madhya Pradesh,Gwalior,0.32622507,Low
+Madhya Pradesh,Harda,0.122151025,Low
+Madhya Pradesh,Narmadapuram,0.42021376,Low
+Madhya Pradesh,Indore Commissionarate,1.0846574,Moderate
+Madhya Pradesh,Indore Railway,0.34591803,Low
+Madhya Pradesh,Jabalpur,0.36247107,Low
+Madhya Pradesh,Jabalpur Railway,0.44283295,Low
+Madhya Pradesh,Jhabua,0.11698691,Low
+Madhya Pradesh,Katni,0.5246707,Low
+Madhya Pradesh,Khandwa,0.86721015,Moderate
+Madhya Pradesh,Khargone,0.29793426,Low
+Madhya Pradesh,Mandla,0.04341519,Low
+Madhya Pradesh,Mandsaur,0.54689336,Low
+Madhya Pradesh,Morena,0.7496516,Low
+Madhya Pradesh,Narsinghpur,1.3075192,Moderate
+Madhya Pradesh,Neemuch,0.61945444,Low
+Madhya Pradesh,Panna,0.6387235,Low
+Madhya Pradesh,Raisen,0.11619243,Low
+Madhya Pradesh,Rajgarh,0.32228312,Low
+Madhya Pradesh,Ratlam,0.854875,Moderate
+Madhya Pradesh,Rewa,0.6780558,Low
+Madhya Pradesh,Sagar,1.350876,Moderate
+Madhya Pradesh,Satna,0.29986215,Low
+Madhya Pradesh,Seoni,0.17713122,Low
+Madhya Pradesh,Shahdol,0.87672246,Moderate
+Madhya Pradesh,Shajapur,0.9712476,Moderate
+Madhya Pradesh,Sheopur,0.9895387,Moderate
+Madhya Pradesh,Shivpuri,0.76341444,Low
+Madhya Pradesh,Sidhi,0.26475796,Low
+Madhya Pradesh,Sehore,0.14327303,Low
+Madhya Pradesh,Singrauli,0.48364225,Low
+Madhya Pradesh,Tikamgarh,0.3079718,Low
+Madhya Pradesh,Ujjain,0.59537315,Low
+Madhya Pradesh,Umaria,0.4795263,Low
+Madhya Pradesh,Vidisha,0.4050027,Low
+Madhya Pradesh,Cyber Crime Cell,0.40593487,Low
+Madhya Pradesh,Niwari,1.1354284,Moderate
+Madhya Pradesh,Bhopal Rural,1.3352966,Moderate
+Madhya Pradesh,Indore Rural,0.6086916,Low
+Madhya Pradesh,Pandhurna,0.16567077,Low
+Madhya Pradesh,Maihar,0.08155237,Low
+Madhya Pradesh,Mauganj,0.3955645,Low
+Maharashtra,Ahilyanagar,2.402306,Moderate
+Maharashtra,Akola,3.3275418,High
+Maharashtra,Amravati Commr,4.051313,High
+Maharashtra,Amravati Rural,2.9210203,High
+Maharashtra,Chhatrapati Sambhajinagar Commr,2.226797,Moderate
+Maharashtra,Chhatrapati Sambhajinagar Rural,5.8994207,High
+Maharashtra,Beed,2.1977332,Moderate
+Maharashtra,Bhandara,2.459364,High
+Maharashtra,Buldhana,3.213114,High
+Maharashtra,Chandrapur,2.7024503,High
+Maharashtra,Dhule,3.5910718,High
+Maharashtra,Gadchiroli,3.3707328,High
+Maharashtra,Gondia,10.291926,Critical
+Maharashtra,Hingoli,2.1370678,Moderate
+Maharashtra,Jalgaon,2.8684485,High
+Maharashtra,Jalna,2.3475413,Moderate
+Maharashtra,Kolhapur,3.5474434,High
+Maharashtra,Latur,2.2451992,Moderate
+Maharashtra,Mumbai Commr,2.6866503,High
+Maharashtra,Mumbai Railway,2.4294283,Moderate
+Maharashtra,Nagpur Commr,2.319185,Moderate
+Maharashtra,Nagpur Railway,3.4751217,High
+Maharashtra,Nagpur Rural,2.5942647,High
+Maharashtra,Nanded,13.886489,Critical
+Maharashtra,Nandurbar,3.6148589,High
+Maharashtra,Nasik Commr,2.2015002,Moderate
+Maharashtra,Nasik Rural,2.255779,Moderate
+Maharashtra,Navi Mumbai,2.0639493,Moderate
+Maharashtra,Dharashiv,3.4833128,High
+Maharashtra,Palghar,2.463438,High
+Maharashtra,Parbhani,9.207252,Critical
+Maharashtra,Pune Commr,3.3630238,High
+Maharashtra,Pune Railway,2.9349077,High
+Maharashtra,Pune Rural,2.2604568,Moderate
+Maharashtra,Raigad,14.901473,Critical
+Maharashtra,Ratnagiri,2.7387962,High
+Maharashtra,Sangli,3.0943458,High
+Maharashtra,Satara,3.074988,High
+Maharashtra,Sindhudurg,3.904846,High
+Maharashtra,Solapur Commr,1.9822787,Moderate
+Maharashtra,Solapur Rural,10.822069,Critical
+Maharashtra,Thane Commr,2.5127273,High
+Maharashtra,Thane Rural,3.167463,High
+Maharashtra,Wardha,3.9053206,High
+Maharashtra,Washim,4.053801,High
+Maharashtra,Yavatmal,4.842949,High
+Maharashtra,Pimpri Chinchwad Commr,2.1595228,Moderate
+Maharashtra,Chhatrapati Sambhajinagar Railway,3.3214297,High
+Maharashtra,Mira Bhayandar Vasai Virar Commr,4.2605295,High
+Manipur,Bishnupur,0.29299435,Low
+Manipur,Chandel,0.3406211,Low
+Manipur,Churachandpur,1.2114795,Moderate
+Manipur,CID,2.4377007,High
+Manipur,Imphal East,0.38032553,Low
+Manipur,Imphal West,0.18683979,Low
+Manipur,Senapati,0.31699353,Low
+Manipur,Tamenglong,0.3730686,Low
+Manipur,Thoubal,0.32844636,Low
+Manipur,Ukhrul,0.07161591,Low
+Manipur,Kakching,0.62409246,Low
+Manipur,Kamjong,1.1156263,Moderate
+Manipur,Kangpokpi,0.4597922,Low
+Manipur,Jiribam,0.55520624,Low
+Manipur,Noney,0.32081163,Low
+Manipur,Pherzawl,0.79907846,Moderate
+Manipur,Tengnoupal,0.41781068,Low
+Manipur,Narcotic,0.65337396,Low
+Meghalaya,Garo Hills East,7.089309,Critical
+Meghalaya,Garo Hills North,7.7817106,Critical
+Meghalaya,Garo Hills South,5.5029445,High
+Meghalaya,Garo Hills South West,2.0389585,Moderate
+Meghalaya,Garo Hills West,2.9307787,High
+Meghalaya,Jaintia Hills West,2.4947915,High
+Meghalaya,Jaintia Hills East,1.6583304,Moderate
+Meghalaya,Khasi Hills East,1.1815526,Moderate
+Meghalaya,Khasi Hills South West,5.0017614,High
+Meghalaya,Khasi Hills West,2.3614595,Moderate
+Meghalaya,Ri-Bhoi,6.2253456,High
+Meghalaya,Cyber Cell,12.065021,Critical
+Meghalaya,Khasi Hills Eastern West,1.6669335,Moderate
+Mizoram,Aizawl,6.51123,High
+Mizoram,Champhai,20.605192,Critical
+Mizoram,Kolasib,9.577095,Critical
+Mizoram,Lawngtlai,4.519229,High
+Mizoram,Lunglei,6.6610208,High
+Mizoram,Mamit,1.6246134,Moderate
+Mizoram,Saiha,7.1415544,Critical
+Mizoram,Serchhip,5.6639237,High
+Mizoram,Spl Narcotic,2.3021746,Moderate
+Mizoram,Hnahthial,13.354622,Critical
+Mizoram,Khawzawl,4.760254,High
+Mizoram,Saitual,5.604402,High
+Mizoram,Cyber,3.7252564,High
+Mizoram,Crime and EOU,6.367887,High
+Nagaland,Dimapur,7.4170957,Critical
+Nagaland,Kiphire,5.7426534,High
+Nagaland,Kohima,4.4447365,High
+Nagaland,Longleng,5.601943,High
+Nagaland,Mokokchung,2.9498026,High
+Nagaland,Mon,14.242819,Critical
+Nagaland,Peren,4.7388253,High
+Nagaland,Phek,5.9106545,High
+Nagaland,Tuensang,3.2262828,High
+Nagaland,Wokha,1.7098099,Moderate
+Nagaland,Zunheboto,3.4710453,High
+Nagaland,Noklak,2.2957253,Moderate
+Nagaland,Shamator,4.113714,High
+Nagaland,Tseminyu,4.028846,High
+Nagaland,Crime,2.5582314,High
+Nagaland,Cyber Security,9.71469,Critical
+Nagaland,Narcotics,6.5480194,High
+Odisha,Angul,0.3466151,Low
+Odisha,Balasore,0.45827633,Low
+Odisha,Baragarh,4.8524084,High
+Odisha,Berhampur,1.8915342,Moderate
+Odisha,Bhadrak,2.0480723,Moderate
+Odisha,Bolangir,0.34539533,Low
+Odisha,Boudh,1.6872711,Moderate
+Odisha,Cuttack,1.8108774,Moderate
+Odisha,DCP BBSR,0.6484529,Low
+Odisha,DCP CTC,0.16468735,Low
+Odisha,Deogarh,0.40938175,Low
+Odisha,Dhenkanal,2.2470455,Moderate
+Odisha,Gajapati,0.3710337,Low
+Odisha,Ganjam,2.7506595,High
+Odisha,Jagatsinghpur,3.5132382,High
+Odisha,Jajpur,0.93765974,Moderate
+Odisha,Jharsuguda,2.6396194,High
+Odisha,Kalahandi,1.4023784,Moderate
+Odisha,Kandhamal,0.34216005,Low
+Odisha,Kendrapara,0.83325404,Moderate
+Odisha,Keonjhar,0.809518,Moderate
+Odisha,Khurda,0.0,Low
+Odisha,Koraput,0.47033796,Low
+Odisha,Malkangiri,0.5951341,Low
+Odisha,Mayurbhanj,0.36848938,Low
+Odisha,Nayagarh,0.5846481,Low
+Odisha,Nabarangpur,2.9246426,High
+Odisha,Nuapada,0.10858532,Low
+Odisha,Puri,1.0037376,Moderate
+Odisha,Rayagada,0.81652915,Moderate
+Odisha,Rourkela,0.23720947,Low
+Odisha,Sambalpur,0.3611164,Low
+Odisha,Sonepur,0.033683747,Low
+Odisha,SRP(Cuttack),0.447804,Low
+Odisha,SRP(Rourkela),0.6252668,Low
+Odisha,Sundargarh,0.27375513,Low
+Odisha,CID CB,1.158234,Moderate
+Punjab,Amritsar Rural,0.38357478,Low
+Punjab,Barnala,0.3162689,Low
+Punjab,Batala,0.0,Low
+Punjab,Bathinda,0.17745052,Low
+Punjab,CP Amritsar,1.1530776,Moderate
+Punjab,CP Jalandhar,0.5590211,Low
+Punjab,CP Ludhiana,0.30229366,Low
+Punjab,Faridkot,0.51381695,Low
+Punjab,Fatehgarh Sahib,1.0385221,Moderate
+Punjab,Fazilka,0.34401923,Low
+Punjab,Ferozepur,2.6307418,High
+Punjab,GRP,2.9532003,High
+Punjab,Gurdaspur,1.4694256,Moderate
+Punjab,Hoshiarpur,0.21106799,Low
+Punjab,Jalandhar Rural,1.2337949,Moderate
+Punjab,Kapurthala,0.091972694,Low
+Punjab,Khanna,0.0,Low
+Punjab,Ludhiana Rural,0.6775299,Low
+Punjab,Mansa,0.02236268,Low
+Punjab,Moga,0.09825784,Low
+Punjab,Muktsar,2.8264074,High
+Punjab,Pathankot,0.38384205,Low
+Punjab,Patiala,0.41862124,Low
+Punjab,Ropar,0.0,Low
+Punjab,Sangrur,0.0,Low
+Punjab,SAS Nagar,0.90702486,Moderate
+Punjab,SBS Nagar,0.6469495,Low
+Punjab,Tarn Taran,0.2207448,Low
+Punjab,Bureau of Investigation,0.037944317,Low
+Punjab,Intelligence Wing,0.0,Low
+Punjab,NRI Wing,0.0,Low
+Punjab,Special Task Force,0.19348523,Low
+Punjab,Malerkotla,0.074969135,Low
+Punjab,Cyber Crime Wing,1.2524418,Moderate
+Rajasthan,Ajmer,6.6363783,High
+Rajasthan,Alwar,1.6789377,Moderate
+Rajasthan,Banswara,1.458081,Moderate
+Rajasthan,Baran,2.4826682,High
+Rajasthan,Barmer,6.7154713,Critical
+Rajasthan,Bharatpur,3.9223604,High
+Rajasthan,Bhilwara,5.0940757,High
+Rajasthan,Bikaner,3.7591677,High
+Rajasthan,Bundi,1.4393364,Moderate
+Rajasthan,Chittorgarh,1.6513835,Moderate
+Rajasthan,Churu,3.331848,High
+Rajasthan,Dausa,2.0395157,Moderate
+Rajasthan,Dholpur,1.3168077,Moderate
+Rajasthan,Dungarpur,2.0263302,Moderate
+Rajasthan,GRP Ajmer,1.6759939,Moderate
+Rajasthan,GRP Jodhpur,5.073899,High
+Rajasthan,Ganganagar,1.5903088,Moderate
+Rajasthan,Hanumangarh,6.3003087,High
+Rajasthan,Jaipur East,2.3616455,Moderate
+Rajasthan,Jaipur North,1.7895609,Moderate
+Rajasthan,Jaipur Rural,1.4299241,Moderate
+Rajasthan,Jaipur South,1.6096714,Moderate
+Rajasthan,Jaipur West,2.044181,Moderate
+Rajasthan,Jaisalmer,1.7493305,Moderate
+Rajasthan,Jalore,2.3135104,Moderate
+Rajasthan,Jhalawar,4.9184604,High
+Rajasthan,Jhunjhunu,1.6940924,Moderate
+Rajasthan,Jodhpur East,7.5600133,Critical
+Rajasthan,Jodhpur West,1.3234555,Moderate
+Rajasthan,Jodhpur Rural,2.0480883,Moderate
+Rajasthan,Karauli,1.7570283,Moderate
+Rajasthan,Kota City,3.6257346,High
+Rajasthan,Kota Rural,2.1919944,Moderate
+Rajasthan,Nagaur,3.3352013,High
+Rajasthan,Pali,2.8171992,High
+Rajasthan,Pratapgarh,2.3919637,Moderate
+Rajasthan,Rajsamand,1.8660437,Moderate
+Rajasthan,Sawai Madhopur,2.0678906,Moderate
+Rajasthan,Sikar,1.8114368,Moderate
+Rajasthan,Sirohi,1.2732208,Moderate
+Rajasthan,Tonk,4.4372196,High
+Rajasthan,Udaipur,2.2032993,Moderate
+Rajasthan,Jaipur Metro,1.231036,Moderate
+Rajasthan,SCRB,2.340501,Moderate
+Rajasthan,ATS & SOG,4.22526,High
+Rajasthan,SSB,2.642588,High
+Rajasthan,Jaipur Crime,9.347835,Critical
+Rajasthan,Bhiwadi,2.436281,High
+Rajasthan,Beawar,4.0223637,High
+Rajasthan,Didwana-Kuchaman,1.5600609,Moderate
+Rajasthan,Kekri,11.121308,Critical
+Rajasthan,Shahpura,4.014837,High
+Rajasthan,Deeg,9.187413,Critical
+Rajasthan,Gangapur City,1.2244282,Moderate
+Rajasthan,Anupgarh,3.4058719,High
+Rajasthan,Dudu,12.527073,Critical
+Rajasthan,Khairtal-Tijara,3.0875678,High
+Rajasthan,Kotputli-Behror,14.309149,Critical
+Rajasthan,Balotra,1.1279855,Moderate
+Rajasthan,Phalodi,1.3719577,Moderate
+Rajasthan,Jodhpur Crime,8.063605,Critical
+Rajasthan,Sanchore,1.1069704,Moderate
+Rajasthan,Neem Ka Thana,1.6960595,Moderate
+Rajasthan,Salumbar,7.5413647,Critical
+Sikkim,Gangtok (East),5.6564817,High
+Sikkim,Mangan (North),7.643471,Critical
+Sikkim,Namchi (South),7.8928895,Critical
+Sikkim,Soreng (West),7.1657085,Critical
+Sikkim,CID,6.267214,High
+Sikkim,Pakyong (East),15.648137,Critical
+Sikkim,Gyalshing (West),7.498397,Critical
+Tamil Nadu,Ariyalur,0.8930178,Moderate
+Tamil Nadu,Chennai,0.72424954,Low
+Tamil Nadu,Coimbatore,2.1489325,Moderate
+Tamil Nadu,Coimbatore City,1.055986,Moderate
+Tamil Nadu,Cuddalore,1.297338,Moderate
+Tamil Nadu,Dharmapuri,5.9762974,High
+Tamil Nadu,Dindigul,1.6643854,Moderate
+Tamil Nadu,Erode,1.1004181,Moderate
+Tamil Nadu,Kanchipuram,1.7803118,Moderate
+Tamil Nadu,Kanyakumari,1.3189862,Moderate
+Tamil Nadu,Karur,1.1890407,Moderate
+Tamil Nadu,Krishnagiri,0.666801,Low
+Tamil Nadu,Madurai,2.9700744,High
+Tamil Nadu,Madurai City,0.93783724,Moderate
+Tamil Nadu,Nagapattinam,0.89879996,Moderate
+Tamil Nadu,Namakkal,0.30274507,Low
+Tamil Nadu,Nilgiris,2.4302206,High
+Tamil Nadu,Perambalur,0.7184564,Low
+Tamil Nadu,Pudukottai,0.74989337,Low
+Tamil Nadu,Ramnathapuram,1.2830575,Moderate
+Tamil Nadu,Railway Chennai,0.8276454,Moderate
+Tamil Nadu,Railway Trichy,0.6907843,Low
+Tamil Nadu,Salem,0.8697464,Moderate
+Tamil Nadu,Salem City,0.80383,Moderate
+Tamil Nadu,Sivagangai,0.6431009,Low
+Tamil Nadu,Thanjavur,1.3136226,Moderate
+Tamil Nadu,Theni,4.1782966,High
+Tamil Nadu,Thirunelveli,0.2870144,Low
+Tamil Nadu,Thirunelveli City,0.569844,Low
+Tamil Nadu,Thiruvallur,3.6385338,High
+Tamil Nadu,Thiruvannamalai,2.795098,High
+Tamil Nadu,Thiruvarur,0.73263794,Low
+Tamil Nadu,Thoothukudi,0.81673247,Moderate
+Tamil Nadu,Tiruppur,0.33590886,Low
+Tamil Nadu,Tiruppur City,1.7348913,Moderate
+Tamil Nadu,Trichy,0.18552248,Low
+Tamil Nadu,Trichy City,0.27138782,Low
+Tamil Nadu,Vellore,0.85715485,Moderate
+Tamil Nadu,Villupuram,1.7900182,Moderate
+Tamil Nadu,Virudhunagar,0.26828033,Low
+Tamil Nadu,Cyber Cell,1.6394451,Moderate
+Tamil Nadu,Other Units,0.20505872,Low
+Tamil Nadu,Chengalpattu,1.4988458,Moderate
+Tamil Nadu,Kallakurichi,0.20383471,Low
+Tamil Nadu,Ranipet,0.4072789,Low
+Tamil Nadu,Tiruppattur,2.7522595,High
+Tamil Nadu,Tenkasi,0.43948308,Low
+Tamil Nadu,Mayiladuthurai,0.62106794,Low
+Tamil Nadu,Avadi,1.2714486,Moderate
+Tamil Nadu,Tambaram,0.95123714,Moderate
+Telangana,Cyberabad Commissionerate,3.0720868,High
+Telangana,Hyderabad Commissionerate,1.280198,Moderate
+Telangana,Karimnagar Commissionerate,1.3814498,Moderate
+Telangana,Khammam Commissionerate,1.7668867,Moderate
+Telangana,Nizamabad Commissionerate,2.4982855,High
+Telangana,Rachakonda Commissionerate,2.902985,High
+Telangana,Ramagundam Commissionerate,1.9122411,Moderate
+Telangana,Siddipet Commissionerate,2.455227,High
+Telangana,Warangal Commissionerate,2.5416338,High
+Telangana,Adilabad,1.5605736,Moderate
+Telangana,Bhadradri Kothagudem,2.0403187,Moderate
+Telangana,Jagityal,2.5685833,High
+Telangana,Jayashankar Bhupalpalli,10.618999,Critical
+Telangana,Jogulamba Gadwal,0.93773127,Moderate
+Telangana,Kamareddy,2.6572556,High
+Telangana,Kumaram Bheem Asifabad,2.07123,Moderate
+Telangana,Mahabubabad,1.685676,Moderate
+Telangana,Mahabubnagar,2.1579423,Moderate
+Telangana,Medak,1.4693513,Moderate
+Telangana,Nagarkurnool,9.337785,Critical
+Telangana,Nalgonda,3.3798428,High
+Telangana,Nirmal,3.4362473,High
+Telangana,Rajanna Siricilla,2.3643951,Moderate
+Telangana,Sangareddy,0.49318886,Low
+Telangana,Suryapet,1.7391453,Moderate
+Telangana,Vikarabad,6.2956743,High
+Telangana,Wanaparthy,5.5687146,High
+Telangana,Railway Police Secunderabad,4.34295,High
+Telangana,Mulug,3.2951005,High
+Telangana,Narayanpet,1.4133608,Moderate
+Tripura,Dhalai,1.6240448,Moderate
+Tripura,Gomati,2.2409625,Moderate
+Tripura,GRP,12.680894,Critical
+Tripura,Kowai,10.762196,Critical
+Tripura,North,8.06548,Critical
+Tripura,Sipahijala,2.6454077,High
+Tripura,South,99.997536,Critical
+Tripura,Unakoti,7.639665,Critical
+Tripura,West,15.855026,Critical
+Tripura,Crime Branch,14.377554,Critical
+Uttar Pradesh,Agra,0.1345841,Low
+Uttar Pradesh,Aligarh,0.28101942,Low
+Uttar Pradesh,Prayagraj,0.23190197,Low
+Uttar Pradesh,Ambedkar Nagar,0.80510044,Moderate
+Uttar Pradesh,Amethi,0.61195546,Low
+Uttar Pradesh,Amroha,0.40122393,Low
+Uttar Pradesh,Auraiya,0.23324844,Low
+Uttar Pradesh,Azamgarh,0.92275095,Moderate
+Uttar Pradesh,Badaun,0.246133,Low
+Uttar Pradesh,Baghpat,0.6265119,Low
+Uttar Pradesh,Bahraich,0.4084722,Low
+Uttar Pradesh,Ballia,0.14925607,Low
+Uttar Pradesh,Balrampur,0.49452442,Low
+Uttar Pradesh,Banda,0.49014777,Low
+Uttar Pradesh,Barabanki,0.27044117,Low
+Uttar Pradesh,Bareilly,0.91479325,Moderate
+Uttar Pradesh,Basti,1.147062,Moderate
+Uttar Pradesh,Bijnor,0.02696031,Low
+Uttar Pradesh,Bulandshahar,1.5530317,Moderate
+Uttar Pradesh,Chandoli,0.22917648,Low
+Uttar Pradesh,Chitrakoot,2.3193755,Moderate
+Uttar Pradesh,Deoria,0.89409184,Moderate
+Uttar Pradesh,Etah,0.9276438,Moderate
+Uttar Pradesh,Etawah,0.8454806,Moderate
+Uttar Pradesh,Ayodhya,0.48303598,Low
+Uttar Pradesh,Fatehgarh,0.21786304,Low
+Uttar Pradesh,Fatehpur,0.9149963,Moderate
+Uttar Pradesh,Firozabad,0.23084584,Low
+Uttar Pradesh,GRP,1.5415543,Moderate
+Uttar Pradesh,Gautambudh Nagar,4.45924,High
+Uttar Pradesh,Ghaziabad,0.0,Low
+Uttar Pradesh,Ghazipur,0.37151745,Low
+Uttar Pradesh,Gonda,1.2014741,Moderate
+Uttar Pradesh,Gorakhpur,0.8809661,Moderate
+Uttar Pradesh,Hamirpur,0.7606932,Low
+Uttar Pradesh,Hapur,0.30744156,Low
+Uttar Pradesh,Hardoi,0.25147983,Low
+Uttar Pradesh,Hathras,2.3667397,Moderate
+Uttar Pradesh,Jalaun,1.1629422,Moderate
+Uttar Pradesh,Jaunpur,0.57724077,Low
+Uttar Pradesh,Jhansi,0.7542154,Low
+Uttar Pradesh,Kannauj,1.0930254,Moderate
+Uttar Pradesh,Kanpur Dehat,0.554005,Low
+Uttar Pradesh,Kanpur Commissionarate,0.38052014,Low
+Uttar Pradesh,Kasganj,0.12560745,Low
+Uttar Pradesh,Kaushambi,0.15520999,Low
+Uttar Pradesh,Khiri,0.5566666,Low
+Uttar Pradesh,Kushi Nagar,0.71234524,Low
+Uttar Pradesh,Lalitpur,1.1401434,Moderate
+Uttar Pradesh,Lucknow Commissionarate,0.46672043,Low
+Uttar Pradesh,Maharajganj,0.953799,Moderate
+Uttar Pradesh,Mahoba,0.9958098,Moderate
+Uttar Pradesh,Mainpuri,0.22666813,Low
+Uttar Pradesh,Mathura,0.50730294,Low
+Uttar Pradesh,Mau,0.15666799,Low
+Uttar Pradesh,Meerut,0.64165354,Low
+Uttar Pradesh,Mirzapur,0.19072498,Low
+Uttar Pradesh,Moradabad,0.08955994,Low
+Uttar Pradesh,Muzaffarnagar,0.67744446,Low
+Uttar Pradesh,Pilibhit,0.25651425,Low
+Uttar Pradesh,Pratapgarh,0.5696017,Low
+Uttar Pradesh,Raibareilly,0.1396205,Low
+Uttar Pradesh,Rampur,1.0722446,Moderate
+Uttar Pradesh,Saharanpur,1.2050817,Moderate
+Uttar Pradesh,Sambhal,0.97749054,Moderate
+Uttar Pradesh,Sant Kabirnagar,1.138975,Moderate
+Uttar Pradesh,Shahjahanpur,0.46459958,Low
+Uttar Pradesh,Shamli,0.319663,Low
+Uttar Pradesh,Shrawasti,0.5378921,Low
+Uttar Pradesh,Sidharthnagar,0.55082935,Low
+Uttar Pradesh,Sitapur,0.4364674,Low
+Uttar Pradesh,Sonbhadra,3.745415,High
+Uttar Pradesh,Bhadohi,0.54923266,Low
+Uttar Pradesh,Sultanpur,0.28019866,Low
+Uttar Pradesh,Unnao,0.51560503,Low
+Uttar Pradesh,Varanasi Commissionarate,0.2522105,Low
+Uttarakhand,Almora,1.0049043,Moderate
+Uttarakhand,Bageshwar,5.8442383,High
+Uttarakhand,Chamoli,0.24161972,Low
+Uttarakhand,Champawat,1.6143018,Moderate
+Uttarakhand,Dehradun,2.6853576,High
+Uttarakhand,Haridwar,0.81515265,Moderate
+Uttarakhand,Nainital,0.7458527,Low
+Uttarakhand,Pauri Garhwal,1.3648012,Moderate
+Uttarakhand,Pithoragarh,1.1142248,Moderate
+Uttarakhand,Rudra Prayag,0.5108885,Low
+Uttarakhand,Tehri Garhwal,5.945681,High
+Uttarakhand,Udhamsingh Nagar,1.7174655,Moderate
+Uttarakhand,Uttarkashi,1.1849416,Moderate
+Uttarakhand,GRP,6.7090473,High
+Uttarakhand,Cyber Cell,0.4308322,Low
+West Bengal,Alipurduar,0.21118715,Low
+West Bengal,Asansol-Durgapur PC,0.6018575,Low
+West Bengal,Bankura,0.32318473,Low
+West Bengal,Barrackpur PC,0.37677598,Low
+West Bengal,Bidhannagar PC,0.6909217,Low
+West Bengal,Birbhum,0.08955765,Low
+West Bengal,Coochbehar,0.68070585,Low
+West Bengal,Dakshin Dinajpur,0.29969367,Low
+West Bengal,Darjeeling,0.2700837,Low
+West Bengal,Hooghly Rural Police,0.7007494,Low
+West Bengal,Howrah GRP,0.43492788,Low
+West Bengal,Howrah PC,0.55643415,Low
+West Bengal,Howrah Rural,0.6474266,Low
+West Bengal,Jalpaiguri,1.7300195,Moderate
+West Bengal,Jhargram,0.34517637,Low
+West Bengal,Kharagpur GRP,0.612729,Low
+West Bengal,Kolkata,1.2019215,Moderate
+West Bengal,Malda,0.56757677,Low
+West Bengal,Murshidabad Police District,0.7896415,Moderate
+West Bengal,Paschim Medinipur,0.0,Low
+West Bengal,Purab Medinipur,1.0012625,Moderate
+West Bengal,Purulia,0.43736896,Low
+West Bengal,Sealdah GRP,0.2792536,Low
+West Bengal,Siliguri GRP,0.5659826,Low
+West Bengal,Siliguri PC,1.0821059,Moderate
+West Bengal,Baruipur Police,1.978272,Moderate
+West Bengal,Chandannagar PC,0.5219682,Low
+West Bengal,Diamond Harbour Police,0.6218,Low
+West Bengal,Kalimpong,2.9277256,High
+West Bengal,Purba Bardhaman,0.9967289,Moderate
+West Bengal,Sundarban Police,0.4323673,Low
+West Bengal,Barasat,0.1834166,Low
+West Bengal,Basirhat,0.42099035,Low
+West Bengal,Bangaon,0.62847936,Low
+West Bengal,Islampur,0.5791868,Low
+West Bengal,Jangipur Police District,0.40640682,Low
+West Bengal,Krishnagar,0.5814166,Low
+West Bengal,Raiganj,0.78530025,Low
+West Bengal,Ranaghat,0.39510527,Low
+Andaman and Nicobar Islands,South Andaman,17.937548,Critical
+Andaman and Nicobar Islands,North & Middle Andaman,19.238163,Critical
+Andaman and Nicobar Islands,Nicobar,7.5744762,Critical
+Chandigarh,Chandigarh,8.483764,Critical
+Dadra and Nagar Haveli and Daman and Diu,D&N Haveli,28.707388,Critical
+Dadra and Nagar Haveli and Daman and Diu,Daman,28.677443,Critical
+Dadra and Nagar Haveli and Daman and Diu,Diu,6.749973,Critical
+Delhi (NCT),Central,30.201534,Critical
+Delhi (NCT),Crime Branch,5.4734836,High
+Delhi (NCT),East,4.368443,High
+Delhi (NCT),EOW,14.520139,Critical
+Delhi (NCT),IGI Airport,4.963635,High
+Delhi (NCT),Metro,6.296546,High
+Delhi (NCT),New Delhi,5.355408,High
+Delhi (NCT),North,6.152068,High
+Delhi (NCT),North-East,20.33238,Critical
+Delhi (NCT),North-West,4.001604,High
+Delhi (NCT),Outer,3.7010663,High
+Delhi (NCT),RAILWAY,4.5643373,High
+Delhi (NCT),South,40.508877,Critical
+Delhi (NCT),South-East,27.434391,Critical
+Delhi (NCT),South-West,66.08714,Critical
+Delhi (NCT),Spl Cell,4.927101,High
+Delhi (NCT),SPUWAC,6.237416,High
+Delhi (NCT),Vigilance,7.6896405,Critical
+Delhi (NCT),West,4.4268165,High
+Delhi (NCT),Rohini,29.773258,Critical
+Delhi (NCT),Shahdara,5.2776785,High
+Delhi (NCT),Dwarka,4.4544806,High
+Delhi (NCT),Outer North,4.4026217,High
+Jammu and Kashmir,Anantnag,0.1036479,Low
+Jammu and Kashmir,Awantipora,1.737125,Moderate
+Jammu and Kashmir,Bandipora,0.03434149,Low
+Jammu and Kashmir,Baramulla,1.0337838,Moderate
+Jammu and Kashmir,Budgam,1.7746462,Moderate
+Jammu and Kashmir,Special Crime Wing Jammu,1.7914768,Moderate
+Jammu and Kashmir,Special Crime Wing Kashmir,1.5347457,Moderate
+Jammu and Kashmir,Doda,2.1251326,Moderate
+Jammu and Kashmir,Ganderbal,0.8775307,Moderate
+Jammu and Kashmir,Handwara,0.2553599,Low
+Jammu and Kashmir,Jammu,0.0,Low
+Jammu and Kashmir,Kathua,0.38027585,Low
+Jammu and Kashmir,Kishtwar,1.4548851,Moderate
+Jammu and Kashmir,Kulgam,0.0,Low
+Jammu and Kashmir,Kupwara,1.6605215,Moderate
+Jammu and Kashmir,Poonch,1.0222918,Moderate
+Jammu and Kashmir,Pulwama,1.9693968,Moderate
+Jammu and Kashmir,Railways Jammu,0.72003996,Low
+Jammu and Kashmir,Railways Kashmir,2.0530024,Moderate
+Jammu and Kashmir,Railways Katra,0.84250027,Moderate
+Jammu and Kashmir,Rajouri,0.23196699,Low
+Jammu and Kashmir,Ramban,1.3095512,Moderate
+Jammu and Kashmir,Reasi,0.80154353,Moderate
+Jammu and Kashmir,Samba,0.0,Low
+Jammu and Kashmir,Shopian,0.33999532,Low
+Jammu and Kashmir,Sopore,0.19617635,Low
+Jammu and Kashmir,Srinagar,4.5202317,High
+Jammu and Kashmir,Udhampur,1.1613404,Moderate
+Jammu and Kashmir,Cyber Crime Jammu,1.3085085,Moderate
+Jammu and Kashmir,Cyber Crime Kashmir,0.117198095,Low
+Jammu and Kashmir,Anti Narcotic Task Force Jammu,0.9309212,Moderate
+Jammu and Kashmir,Anti Narcotic Task Force Kashmir,0.8495248,Moderate
+Jammu and Kashmir,EOW Jammu,0.5463611,Low
+Jammu and Kashmir,EOW Kashmir,0.45334706,Low
+Jammu and Kashmir,CICE Jammu,14.23058,Critical
+Jammu and Kashmir,CICE Kashmir,2.053822,Moderate
+Ladakh,Kargil,0.19980565,Low
+Ladakh,Leh,0.93040437,Moderate
+Lakshadweep,Lakshadweep,23.279747,Critical
+Puducherry,Karaikal,28.055052,Critical
+Puducherry,Puducherry,19.42498,Critical

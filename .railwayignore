@@ -1,0 +1,66 @@
+# Python cache & virtualenvs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Git
+.git/
+.gitignore
+
+# Large raw archives & temporary datasets (NOT needed in production)
+*.zip
+archive*/
+creditcard.csv
+bank_transactions_data_2.csv
+transactions.csv
+india_districts.geojson
+eda_plots/
+.agents/
+tests/
+scratch/
+
+# Legacy and intermediate model versions
+*_v1.*
+*_v2.*
+best_model.pkl
+fixed_district_model.pkl
+fixed_district_model_v2.pkl
+complaint_predictor.pkl
+complaint_predictor_v2.pkl
+fraud_type_models.pkl
+fraud_type_models_v2.pkl
+zone_predictor_v2.pkl
+time_predictor.pkl
+scaler.pkl
+fixed_scaler.pkl
+
+# Heavy SHAP explainers (480MB+ - keep local or on S3, exclude from Railway slug)
+shap_explainer_*.pkl
+*.png
+test_run_summary.json
+sample_predictions*.json
+data_cleaning_report.txt
+model_evaluation_report.txt
+final_evaluation_report*.txt
+shap_analysis_report*.txt
+
+# Training & data generation scripts
+train_*.py
+generate_*.py
+build_*.py
+phase*.py
+evaluate_*.py
+clean_*.py
+fix_*.py
+patch_*.py
+parse_*.py
+append_*.py
+cybercast_data_engine.py
+cybercrime_data_pipeline.py
+calibrate_risk.py
+test_comprehensive_pipeline.py

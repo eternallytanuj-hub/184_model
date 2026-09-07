@@ -1,0 +1,45 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Virtual environment & tests
+.agents/
+tests/
+eda_plots/
+archive*/
+*.zip
+*.pdf
+*.xlsx
+*.xls
+
+# Raw & huge intermediate datasets
+creditcard.csv
+bank_transactions_data_2.csv
+transactions.csv
+india_districts.geojson
+Dataset_CyberCrime_Sean.csv
+cleaned_bank_transactions.csv
+cleaned_upi_transactions.csv
+extracted_cybercrime.csv
+synthetic_complaints*.csv
+cleaned_cybercrime_data*.csv
+
+# Heavy local SHAP explainers (>100MB exceeds GitHub limit)
+shap_explainer_*.pkl
+*.png
+
+# Root copies of old models (only track models/ and data/)
+*.pkl
+!models/*.pkl
+
+# OS metadata
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
